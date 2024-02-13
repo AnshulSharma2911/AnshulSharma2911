@@ -6,9 +6,9 @@
 
 - 🔍 I’m looking forward to kickstarting my career as a software engineer.
 - 🌱 I’m currently working on **Projects**
-- 💬 Ask me about Html ,CSS, JavaScript, MongoDB, Express, NodeJS, C, C++, Php, Mysql.
-- 📫 How to reach me **utkarshgarg143@gmail.com**
-- ⚡ Portfolio - https://bit.ly/utkarsh_garg
+- 💬 Ask me about Html ,CSS, JavaScript, MongoDB, Express, NodeJS, C, Mysql.
+- 📫 How to reach me **csanshul12@gmail.com**
+- ⚡ Portfolio - https://bit.ly/portfolio-anshul
 
 ## 🌐 Socials:
 ![Facebook](https://facebook.com/utkarsh.143.garg) ![Instagram](https://instagram.com/utkarshh_garg) ![LinkedIn](https://linkedin.com/in/utkarshgarg62) ![Twitter](https://twitter.com/utkarshgarg143) 
