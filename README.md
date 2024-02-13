@@ -1,7 +1,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg41bs0vggYsEA84GqggiBSh-PilOqPWtnBafBESwORIT7gMc8gp_zIeOKuwzH9y9Hn1_gDgpi9itIfnZZFRTYaKyQdL924xAdTkXdIYX4joFw-O9BbBnybkazMZW96PGKkQgLNuNlE154WRgs3L-q0SHg8b47upbdgTLthXMf89AdGYbKxL4iO8WdpLWw/s3250/Blue%20Modern%20Elegant%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 
-<h3 align="center">Hi there 👋, I'm Utkarsh Garg</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshgarg62&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshgarg62" /> </p>
+<h3 align="center">Hi there 👋, I'm Anshul Sharma</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshulSharma2911&label=Profile%20views&color=0e75b6&style=flat" alt="AnshulSharma2911" /> </p>
 <h3>About me :</h3>
 
 - 🔍 I’m looking forward to kickstarting my career as a software engineer.
