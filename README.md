@@ -1,6 +1,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg41bs0vggYsEA84GqggiBSh-PilOqPWtnBafBESwORIT7gMc8gp_zIeOKuwzH9y9Hn1_gDgpi9itIfnZZFRTYaKyQdL924xAdTkXdIYX4joFw-O9BbBnybkazMZW96PGKkQgLNuNlE154WRgs3L-q0SHg8b47upbdgTLthXMf89AdGYbKxL4iO8WdpLWw/s3250/Blue%20Modern%20Elegant%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
+![](https://komarev.com/ghpvc/?username=anshulsharma2911)
 <h3 align="center">A passionate web developer from India</h3>
 
 
