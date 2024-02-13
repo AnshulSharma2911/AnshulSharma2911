@@ -4,10 +4,10 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/portfolio-anshul](https://bit.ly/portfolio-anshul)
+- 🔭 I’m looking forward to start my career as software engineer.
 
-- 💬 Ask me about **Html ,CSS, JavaScript, MongoDB, Express, NodeJS**
-- 
+- 👨‍💻 All of my projects are available at [https://bit.ly/portfolio-anshul](https://bit.ly/portfolio-anshul)
+ 
 - 💬 Ask me about **Html ,CSS, JavaScript, MongoDB, Express, NodeJS**
 
 - 📫 How to reach me **csanshul12@gmail.com**
