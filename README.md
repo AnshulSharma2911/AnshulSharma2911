@@ -8,7 +8,7 @@
 
 - 🔭 I’m looking forward to start my career as software engineer.
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/portfolio-anshul](https://bit.ly/portfolio-anshul)
+- 👨‍💻 All of my projects are available at (https://tinyurl.com/5dhmk83x)
  
 - 💬 Ask me about **Html ,CSS, JavaScript, MongoDB, Express, NodeJS**
 
